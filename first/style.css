@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+.big-div {
+  background-color: lightgrey;
+}
+
+.num-1 {
+  height: 80px;
+  width: 100%;
+  background-color: grey;
+  margin: 0px;
+}
+
+.num-2 {
+  height: 500px;
+  background-color: white;
+  margin: 0 20% 0 20%;
+}
+
+.num-3 {
+  height: 50px;
+  background-color: black;
+  margin: 0 20% 0 20%;
+}

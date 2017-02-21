@@ -1,0 +1,60 @@
+.big-div {
+  /* This div is just for the text. */
+  margin-left: 30px;
+  padding-top: 30px;
+  font-family: helvetica;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgb(80, 80, 80);
+  padding-bottom: 30px;
+  margin-right: 30px;
+}
+
+.num-1 {
+  background-color: rgb(216, 216, 216);
+  height: 55px;
+  width: 100%;
+  margin: 0px;
+  padding-top: 5px;
+  box-sizing: border-box;
+}
+
+.num-2 {
+  background-color: rgb(78, 146, 223);
+  height: 65px;
+  width: 100%;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.num-3 {
+  background-color: rgb(88, 226, 194);
+  height: 65px;
+  width: 100%;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.num-4 {
+  background-color: rgb(185, 231, 139);
+  height: 65px;
+  width: 100%;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.num-5 {
+  background-color: rgb(247, 229, 59);
+  height: 65px;
+  width: 100%;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.lelittlebox {
+  background-color: rgb(78, 146, 223);
+  height: 45px;
+  width: 45px;
+  margin-left: 12px;
+  box-sizing: border-box;
+}
